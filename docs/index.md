@@ -22,7 +22,7 @@ CHECKLIST FOR THIS PAGE:
   <img src="assets/images/profile.png" alt="Caitlin McWilliams" class="profile-photo">
   <h1>Caitlin McWilliams</h1>
   <p><strong>Research Assistant</strong></p>
-  <p><em>Using GIS to aid land stewardship</em></p>
+  <p><em>Using GIS to aid restoration projects</em></p>
 </div>
 
 ---
@@ -33,7 +33,7 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-text" markdown>
 
 I am a masters of GIS student with a background in land management, remote sensing, and machine learning.
-Under the Fairfax Beaver Lab, I'm working with the Great Lakes Fish and Wildlife Commission to make historical maps of wild rice using remote sensing, machine learning, and GeoAI. I am passionate about applying remote sensing to help land stewardship projects.
+Under the Fairfax Beaver Lab, I'm working with the Great Lakes Fish and Wildlife Commission to make historical maps of wild rice using remote sensing and machine learning. I am passionate about applying remote sensing to help land stewardship projects.
 
 </div>
 
