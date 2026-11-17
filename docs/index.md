@@ -46,7 +46,7 @@ Under the Fairfax Beaver Lab, I'm working with the Great Lakes Fish and Wildlife
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Caitlin-CV.pdf){ .md-button }
 
 
 ---
@@ -55,55 +55,30 @@ Under the Fairfax Beaver Lab, I'm working with the Great Lakes Fish and Wildlife
 
 <div class="grid cards" markdown>
 
--   :material-layers:{ .lg .middle } **GIS & Remote Sensing**
+-   **GIS & Remote Sensing**
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    - Google Earth Engine, ArcGIS Pro/Online, QGIS
 
--   :material-code-braces:{ .lg .middle } **Programming**
+-   **Programming**
 
     ---
 
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
-    - SQL, PostgreSQL + PostGIS
+    - Python, R, Java
 
--   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
+-   **Machine Learning & GeoAI**
 
     ---
 
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
-    - Object detection in satellite imagery
+    - Supervised classification: Random Forest
+    - Deep learning for image segmentation: U-Net
 
--   :material-earth:{ .lg .middle } **Web Mapping & Data**
 
-    ---
-
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
-    - Streamlit for data-driven web apps
-
--   :material-database:{ .lg .middle } **Data & Cloud**
-
-    ---
-
-    - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
-
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
+-   **Drone Processing**
 
     - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
+    - Point cloud processing: Pix4D
 </div>
 
 
@@ -111,5 +86,5 @@ Under the Fairfax Beaver Lab, I'm working with the Great Lakes Fish and Wildlife
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/;efsey){ .md-button }
+[LinkedIn](https://linkedin.com/in/caitlin-mcwilliams-5a1851229){ .md-button }

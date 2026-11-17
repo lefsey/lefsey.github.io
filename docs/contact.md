@@ -22,11 +22,10 @@ Feel free to reach out through any of the channels below.
 
 | | |
 |---|---|
-| :material-email: **Email** | [your-email@example.com](mailto:[YOUR-EMAIL-ADDRESS]) |
-| :fontawesome-brands-github: **GitHub** | [github.com/[YOUR-GITHUB-USERNAME]](https://github.com/[YOUR-GITHUB-USERNAME]) |
-| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/[YOUR-LINKEDIN-USERNAME]](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]) |
-| :material-school: **ResearchGate** | [researchgate.net/profile/[YOUR-PROFILE]](https://www.researchgate.net/profile/[YOUR-PROFILE]) |
+| :material-email: **Email** | [caitlin.b.mcwilliams@gmail.com](mailto:caitlin.b.mcwilliams@gmail.com) |
+| :fontawesome-brands-github: **GitHub** | [github.com/lefsey](https://github.com/lefsey]) |
+| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/caitlin-mcwilliams-5a1851229](https://linkedin.com/in/caitlin-mcwilliams-5a1851229) |
 
 ---
 
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button .md-button--primary }
+[Download CV :material-download:](assets/Caitlin-CV.pdf){ .md-button .md-button--primary }
