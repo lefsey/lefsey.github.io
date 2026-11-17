@@ -21,27 +21,12 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="project-card" markdown>
 ![](../assets/images/placeholder-project.png)
 
-**[Sample Project](sample-project.md)**
+**Waste Audit Dashboard (https://experience.arcgis.com/experience/a8e20114c25148c7a2ce98baf4f0e718)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+To aid the Carleton College custodial staff, I developed a dashboard and field maps app to help monitor incorrectly-sorted recycling and compost items in college buildings. The audits are still ongoing and the dashboard is reporting live publically-available results on Carleton's website.
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
 
-[View Project →](sample-project.md){ .md-button }
-</div>
+'Experience Builder' 'FieldMaps'
 
-<div class="project-card" markdown>
-![](../assets/images/placeholder-notebook.png)
-
-**[Sample Notebook](sample-notebook.ipynb)**
-
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
-
-`Python` `pandas` `Folium`
-
-[View Project →](sample-notebook.ipynb){ .md-button }
-</div>
-
+[View Project →](https://experience.arcgis.com/experience/a8e20114c25148c7a2ce98baf4f0e718){ .md-button }
 </div>
