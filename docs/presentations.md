@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-## Conference Papers & Presentations
+## Conference Posters & Presentations
 
 1. Caitlin McWilliams and Miles Falck ([2026]). "Remote sensing of wild rice (manoomin) in Wisconsin wetlands." *GIS/LIS Conference*
 
@@ -14,5 +14,5 @@ hide:
 
 ## Theses
 
-- Caitlin McWilliams ([2025]). *Beaver Management Conflicts on the North Shore*. Environmental Studies thesis. Carleton College.
+1. Caitlin McWilliams ([2025]). *Beaver Management Conflicts on the North Shore*. Environmental Studies thesis. Carleton College.
 ---
