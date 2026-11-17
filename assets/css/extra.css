@@ -1,9 +1,10 @@
 /* Profile photo on the Home page */
-.profile-photo {
+.md-typeset .profile-photo {
   border-radius: 50%;
   width: 160px;
   height: 160px;
   object-fit: cover;
+  object-position: 35% 55%;
   display: block;
   margin: 0 auto 0.75rem auto;
 }
@@ -12,8 +13,12 @@
 .hero {
   text-align: center;
   padding: 1rem 1rem 1.25rem 1rem;
-  background: linear-gradient(135deg, #e8f4f8 0%, #f0f7ff 50%, #e8f0fe 100%);
+  background: #cbd5e1;
   border-radius: 8px;
+}
+
+[data-md-color-scheme="slate"] .hero {
+  background: grey;
 }
 
 .hero h1 {
@@ -46,7 +51,7 @@
 }
 
 .about-image img {
-  width: 400px;
+  width: 225px;
   border-radius: 8px;
   display: block;
 }
