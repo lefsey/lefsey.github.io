@@ -3,13 +3,6 @@ hide:
   - toc
   - navigation
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace each [YOUR ...] placeholder with your actual information
-- [ ] Add or remove job entries as needed (copy the format of an existing entry)
-- [ ] Add or remove education entries
-- [ ] Add or remove certifications
--->
 
 # Experience & Education
 
@@ -40,8 +33,6 @@ CHECKLIST FOR THIS PAGE:
 </div>
 
 
-</div>
-
 <div class="timeline-entry" markdown>
 
 ### GIS Lab Assistant — Carleton College
@@ -54,8 +45,6 @@ CHECKLIST FOR THIS PAGE:
 
 </div>
 
-</div>
-
 <div class="timeline-entry" markdown>
 
 ### Natural Resources and Biology Pathways Intern — US Forest Service
@@ -63,9 +52,6 @@ CHECKLIST FOR THIS PAGE:
 
 - Conducted dozens of stream surveys to assess aquatic health and habitat quality
 - Monitored riverbed gold mining operations for compliance with fish habitat regulations
-
-
-</div>
 
 </div>
 
@@ -78,8 +64,6 @@ CHECKLIST FOR THIS PAGE:
 
 </div>
 
-</div>
-
 <div class="timeline-entry" markdown>
 
 ### Stormwater GIS Seasonal Worker — City of Eagan
@@ -89,20 +73,19 @@ CHECKLIST FOR THIS PAGE:
 
 </div>
 
-</div>
 
 ---
 
 ## Education
 
-### Master of GIS
+### Master's of GIS
 **University of Minnesota** | *Expected 12/2027*
 
 Thesis: Remote sensing wild rice
 
 ---
 
-### [YOUR PREVIOUS DEGREE] in [YOUR FIELD]
+### Bachelor's of Biology & Environmental Studies
 **Carleton College** | *2025*
 
 ---

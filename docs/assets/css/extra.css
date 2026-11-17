@@ -97,6 +97,10 @@
   background-color: #f0f7ff;
 }
 
+[data-md-color-scheme="slate"] .md-typeset .grid.cards > ul > li {
+  background: grey;
+}
+
 /* Project cards on the Projects gallery page */
 .project-card {
   border: 1px solid var(--md-default-fg-color--lightest);
@@ -106,8 +110,17 @@
   transition: box-shadow 0.2s;
 }
 
+[data-md-color-scheme="slate"] .project-card {
+  background: grey;
+}
+
+
 .project-card:hover {
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+}
+
+[data-md-color-scheme="slate"] .project-card:hover {
+  box-shadow: 0 4px 16px white;
 }
 
 .project-card img {
