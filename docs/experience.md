@@ -90,6 +90,13 @@ Thesis: Remote sensing wild rice
 
 ---
 
+## Leadership
+
+- GIS Student Organization Co-President
+- Geography Department Education and Policy Committee Member
+
+---
+
 ## Certifications
 
 - Remote Drone Pilot — Federal Aviation Administration, [In Review]

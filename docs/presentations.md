@@ -12,7 +12,7 @@ hide:
 
 ![](../assets/images/BeaverCON Poster.png)
 
-## Theses
+## Thesis
 
 1. Caitlin McWilliams (2025). *Beaver Management Conflicts on the North Shore*. Environmental Studies thesis. Carleton College.
 
